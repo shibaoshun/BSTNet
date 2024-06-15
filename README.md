@@ -1,1 +1,1 @@
-This is the supplementary material which presents detail proofs of the Lemma 1, Lemma 2 and Theorem 1 in our paper entitled "Provably Bounded Dynamic Sparsifying Transform Network For Compressive Imaging".
+This is the supplementary material which presents detail proofs of the Lemma 1, Lemma 2 and Theorem 2 in our paper entitled "Provably Bounded Dynamic Sparsifying Transform Network For Compressive Imaging".
